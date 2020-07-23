@@ -1,20 +1,13 @@
 # Mike Lyou Blog
 
-This is Mike Lyou blog.
-[View Mike Lyou Blog &rarr;](https://mikelyou.com)
+这是采叶小火的二次元博客. [前往 &rarr;](https://acg.mikelyou.com)
 
-## Boilerplate of this blog
+## Template of this blog
 
-This repositery is forked from [Hux Blog](https://github.com/Huxpro/huxpro.github.io). Thanks [\@Hux](https://github.com/Huxpro) for the great boilerplate.
+这个仓库是以我的主博客为模板创建的. [前往 &rarr;](https://github.com/mikelyou/mikelyou.github.io)
 
-Please star [Hux Blog](https://github.com/Huxpro/huxpro.github.io) instead of this if you like this boilerplate.
+## 更新
 
-## To-do List
+### 2020-07-23
 
-- Friend & Friend Request
-
-
-## To-write List
-
-- RSS
-
+- 创建仓库
