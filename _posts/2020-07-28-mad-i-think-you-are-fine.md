@@ -5,8 +5,8 @@ title: "【星之梦/MAD/致郁番混剪】请不要把天堂一分为二"
 subtitle: '关于这个视频的一些有的没的'
 date: 2020-07-23 14:00:00
 author: "采叶小火"
-header-style: text
-#header-img: "img/dream-catcher-902508_1920.jpg"
+#header-style: text
+header-img: "img/post-bg-hoshino-yumemi.jpg"
 mathjax: false
 catalog: true
 copyright-statement: CC BY-NC-SA
@@ -32,8 +32,9 @@ tags:
 <!-- credit: https://www.cnblogs.com/wkfvawl/p/12268980.html -->
 
 前往 bilibili 观看 &rarr; [BV1D64y1F7zi](https://www.bilibili.com/video/BV1D64y1F7zi)
+（手机播放视频似乎出现问题，正在尝试解决）
 
-**简介**：个人向致郁番混剪，希望也能你你的眼睛进点砖头。还有，我真的不会起标题。  
+**简介**：个人向致郁番混剪，希望也能**让**你的眼睛进点砖头。还有，我真的不会起标题。  
 **素材**：星之梦、可塑性记忆、SOLA、少女终末旅行、快要坏掉的八音盒、你的名字  
 **BGM**：Xeuphoria - I Think You're Fine Just The Way You Are  
 **副标题**：全程低能并不踩点、泪点低动漫迷慎点、耗时60小时、四分钟拿走你硬币、每天一遍防止不抑郁  

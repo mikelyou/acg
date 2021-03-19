@@ -81,7 +81,7 @@ valine_appKey: lLruq0KJwl4pRcRYvyjsCLPA
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "老二次元了"
+sidebar-about-description: "只要你爱少终，我们就是永远的朋友."
 sidebar-avatar: /img/avatar-jianshu.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
